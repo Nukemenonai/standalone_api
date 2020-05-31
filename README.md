@@ -6,7 +6,7 @@ This dummy API is a very (very) basic service made with python, flask, a json fi
 
 The API server example is here <https://api-test-rappi.herokuapp.com/users>
 
-the api has currently the following endpoints and method
+the API currently has the following endpoints and methods
 
 * GET /status
 * GET /users
