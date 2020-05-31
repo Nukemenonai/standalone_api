@@ -8,8 +8,8 @@ The API server example is here <https://api-test-rappi.herokuapp.com/users>
 
 the api has currently the following endpoints and method
 
-GET /users
-GET /users/{string:id} 
-POST /users 
-PUT /users/{string: id}
+* GET /users
+* GET /users/{string:id} 
+* POST /users 
+* PUT /users/{string: id}
 
